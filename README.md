@@ -3,7 +3,11 @@ Module 16
 
 ## Linear Regression to Predict MPG
 
-Image
+R-squared:  0.6825
+
+p-value: 5.35e-11
+
+image
 
 *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
