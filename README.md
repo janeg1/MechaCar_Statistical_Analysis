@@ -7,7 +7,8 @@ R-squared:  0.6825
 
 p-value: 5.35e-11
 
-https://github.com/janeg1/MechaCar_Statistical_Analysis/blob/main/Linear%20Regression%20to%20Predict%20MPG.png
+![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/116606765/221092439-e39ef765-5779-4494-8e5c-eba64e9420b7.png)
+
 
 *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
