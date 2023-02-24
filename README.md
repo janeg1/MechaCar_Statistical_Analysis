@@ -31,3 +31,22 @@ Total_Summery
 
 ## T-Tests on Suspension Coils
 *briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+t.test 
+![total_summery](https://user-images.githubusercontent.com/116606765/221093051-2ba24b8c-0561-480f-bc8b-a776d50559d5.png)
+
+t.test for lot #1, #2, #3
+![t test Lot 1 2 3](https://user-images.githubusercontent.com/116606765/221093116-a1223ab3-4516-43d3-b07e-9ff379dbe496.png)
+
+
+## Study Design: MechaCar vs Competition
+
+short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+*What metric or metrics are you going to test?
+
+*What is the null hypothesis or alternative hypothesis?
+
+*What statistical test would you use to test the hypothesis? And why?
+
+*What data is needed to run the statistical test?
